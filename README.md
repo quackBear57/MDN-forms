@@ -1,4 +1,4 @@
-#h2 Form Tutorials
+## Form Tutorials
 
 As part of the  Odin Project, following two MDN tutorials on forms.
 
